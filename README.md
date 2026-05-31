@@ -44,7 +44,7 @@ A **Rooftop** base station installation (on the hospital roof) is proposed. This
 
   <img width="810" height="763" alt="Zrzut ekranu 2026-05-31 054053" src="https://github.com/user-attachments/assets/92e3fb35-0079-4737-8c11-10af0e53c06f" />
   
-**Legend**
+**Legend**  
 🔴 - Existing BTS  
 🟥 - Proposed location of the BTS
 
