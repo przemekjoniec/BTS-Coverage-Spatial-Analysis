@@ -41,3 +41,7 @@ A **Rooftop** base station installation (on the hospital roof) is proposed. This
 * Instantly resolves the "white spot" problem for the most demanding client in the region.
 * Ensures excellent signal propagation from a high altitude to surrounding residential areas (visible in the generated optimization buffer).
 * Significantly reduces CAPEX (capital expenditures) by eliminating the need to build foundations and lease new land.
+
+  <img width="810" height="763" alt="Zrzut ekranu 2026-05-31 054053" src="https://github.com/user-attachments/assets/92e3fb35-0079-4737-8c11-10af0e53c06f" />
+
+  The original BDOT10K data has been removed from the folder because the file size was too large.
